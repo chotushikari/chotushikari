@@ -62,7 +62,7 @@ So if you're here to collaborate, learn, or just vibe with a fellow student tryi
 
 ### 🔗 Let’s connect
 
-- 📬 [Reach me on LinkedIn](www.linkedin.com/in/piyushtakrani2805) *(once I fix my bio... it's a work in progress ok?)*
+- 📬 [Reach me on LinkedIn](https://www.linkedin.com/in/piyushtakrani2805/) *(once I fix my bio... it's a work in progress ok?)*
 - 🐦 Instagram? Maybe later. For now, I'm just chasing deadlines and debugging life.
 
 ---
