@@ -1,6 +1,6 @@
-# 👋 Hey there, curious wanderer of the codeverse!
+# 👋 Hey there, curious wanderer of the codeX!
 
-Welcome to my digital cave of chaos, curiosity, and occasional commits.
+Welcome to my digital lab of  curiosity, and occasional commits .
 
 ## Who am I?
 
