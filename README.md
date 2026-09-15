@@ -76,7 +76,10 @@ I turn ambiguous, real-world workflows into working products: voice agents, docu
       <p>
         <code>Next.js</code> <code>TypeScript</code> <code>Supabase</code> <code>Agora</code> <code>LLMs</code>
       </p>
-      <a href="https://roundtable-ai-finale.vercel.app"><b>▶ Launch demo</b></a> &nbsp;·&nbsp; <a href="https://github.com/chotushikari/roundtable-final">Source</a>
+      <p>
+        <a href="https://roundtable-ai-finale.vercel.app"><img src="https://img.shields.io/badge/▶_ENTER_VOICE_ARENA-00D4AA?style=for-the-badge&labelColor=0D1117" alt="Launch RoundTable demo" /></a>
+        <a href="https://github.com/chotushikari/roundtable-final"><img src="https://img.shields.io/badge/⌘_OPEN_SOURCE-7C3AED?style=for-the-badge&labelColor=0D1117" alt="Open RoundTable source" /></a>
+      </p>
     </td>
     <td width="50%" valign="top">
       <h3>📡 <a href="https://github.com/chotushikari/MOMENTUM">MOMENTUM</a></h3>
@@ -84,7 +87,10 @@ I turn ambiguous, real-world workflows into working products: voice agents, docu
       <p>
         <code>Next.js</code> <code>TypeScript</code> <code>YouTube Data API</code> <code>OpenAI</code>
       </p>
-      <a href="https://momentum-swart-iota.vercel.app"><b>▶ Launch demo</b></a> &nbsp;·&nbsp; <a href="https://github.com/chotushikari/MOMENTUM">Source</a>
+      <p>
+        <a href="https://momentum-swart-iota.vercel.app"><img src="https://img.shields.io/badge/▶_SCAN_THE_SIGNAL-FF6B6B?style=for-the-badge&labelColor=0D1117" alt="Launch MOMENTUM demo" /></a>
+        <a href="https://github.com/chotushikari/MOMENTUM"><img src="https://img.shields.io/badge/⌘_DECODE_SOURCE-7C3AED?style=for-the-badge&labelColor=0D1117" alt="Open MOMENTUM source" /></a>
+      </p>
     </td>
   </tr>
   <tr>
@@ -94,7 +100,7 @@ I turn ambiguous, real-world workflows into working products: voice agents, docu
       <p>
         <code>Next.js</code> <code>FastAPI</code> <code>Qdrant</code> <code>OpenAI</code>
       </p>
-      <a href="https://github.com/chotushikari/DocuIntel-AI"><b>◇ Inspect build</b></a>
+      <p><a href="https://github.com/chotushikari/DocuIntel-AI"><img src="https://img.shields.io/badge/◇_UNLOCK_ARCHIVE-00D4AA?style=for-the-badge&labelColor=0D1117" alt="Open DocuIntel source" /></a></p>
     </td>
     <td width="50%" valign="top">
       <h3>🏨 <a href="https://github.com/chotushikari/Concierge-AI">Concierge AI</a></h3>
@@ -102,16 +108,37 @@ I turn ambiguous, real-world workflows into working products: voice agents, docu
       <p>
         <code>Node.js</code> <code>Next.js</code> <code>Redis</code> <code>Supabase</code> <code>Twilio</code>
       </p>
-      <a href="https://github.com/chotushikari/Concierge-AI"><b>◇ Inspect build</b></a>
+      <p><a href="https://github.com/chotushikari/Concierge-AI"><img src="https://img.shields.io/badge/◇_CALL_CONCIERGE-FF6B6B?style=for-the-badge&labelColor=0D1117" alt="Open Concierge AI source" /></a></p>
     </td>
   </tr>
 </table>
 
-<details>
-  <summary><b>🔒 Side quest unlocked: NEXUS</b> — an autonomous-enterprise operating environment built around observable backend agent events.</summary>
-  <br />
-  <a href="https://github.com/chotushikari/nexus">Explore NEXUS →</a>
-</details>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏢 <a href="https://github.com/chotushikari/nexus">NEXUS</a></h3>
+      <p><b>Autonomous enterprise operating environment.</b> An event-driven agent platform built around a 20-agent roster, with mission orchestration, policy enforcement, approval pause/resume, persistent enterprise state, audit trails, and human-in-the-loop workflows.</p>
+      <p>
+        <code>FastAPI</code> <code>Next.js</code> <code>Google ADK</code> <code>Gemini</code> <code>Cloud Run</code>
+      </p>
+      <p>
+        <a href="https://nexus-piyush-codexs-projects.vercel.app/"><img src="https://img.shields.io/badge/▶_COMMAND_THE_FLEET-00D4AA?style=for-the-badge&labelColor=0D1117" alt="Launch NEXUS demo" /></a>
+        <a href="https://github.com/chotushikari/nexus"><img src="https://img.shields.io/badge/⌘_ACCESS_NEXUS-7C3AED?style=for-the-badge&labelColor=0D1117" alt="Open NEXUS source" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚖️ <a href="https://github.com/chotushikari/legalsummary.ai">LegalSummary.ai</a></h3>
+      <p><b>Legal-document intelligence interface.</b> A clean web experience for turning dense legal documents into clear, usable summaries—built for readability when the source material is anything but simple.</p>
+      <p>
+        <code>Next.js</code> <code>JavaScript</code> <code>Tailwind CSS</code> <code>Firebase</code>
+      </p>
+      <p>
+        <a href="https://legalsummary-ai.vercel.app"><img src="https://img.shields.io/badge/▶_SIMPLIFY_THE_CASE-FF6B6B?style=for-the-badge&labelColor=0D1117" alt="Launch LegalSummary demo" /></a>
+        <a href="https://github.com/chotushikari/legalsummary.ai"><img src="https://img.shields.io/badge/⌘_READ_THE_CODE-7C3AED?style=for-the-badge&labelColor=0D1117" alt="Open LegalSummary source" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated divider" />
 
